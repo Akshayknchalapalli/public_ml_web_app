@@ -7,7 +7,6 @@ This project is a web application built with Streamlit that allows users to pred
 - [Getting Started](#getting-started)
 - [Dependencies](#dependencies)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
 - [Contributing](#contributing)
 - [License](#license)
 

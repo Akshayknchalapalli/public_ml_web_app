@@ -7,7 +7,10 @@ This project is a web application built with Streamlit that allows users to pred
 - [Getting Started](#getting-started)
 - [Dependencies](#dependencies)
 - [Usage](#usage)
+
 - [Screenshots](#screenshots)
+
+>>>>>>> origin/main
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -43,3 +46,6 @@ Contributions to this project are welcome. If you find any issues or would like 
 
 ## License
 This project is licensed under the MIT License.
+
+This project is licensed under the MIT License.
+

@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun May  8 21:01:15 2022
+Created on Fri Aug  11 21:01:15 2023
 
-@author: siddhardhan
+@author: akshay
 """
 
 import pickle
@@ -242,18 +242,6 @@ if (selected == "Parkinsons Prediction"):
           parkinsons_diagnosis = "The person does not have Parkinson's disease"
         
     st.success(parkinsons_diagnosis)
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

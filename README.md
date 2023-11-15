@@ -10,7 +10,6 @@ This project is a web application built with Streamlit that allows users to pred
 
 - [Screenshots](#screenshots)
 
->>>>>>> origin/main
 - [Contributing](#contributing)
 - [License](#license)
 
